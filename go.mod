@@ -19,9 +19,8 @@ require (
 	github.com/sigstore/sigstore v0.0.0-20210729211320-56a91f560f44
 	github.com/tent/canonical-json-go v0.0.0-20130607151641-96e4ba3a7613
 	github.com/theupdateframework/go-tuf v0.0.0-20210910130845-a075f9667462
-	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5 // indirect
-	golang.org/x/sys v0.0.0-20210910150752-751e447fb3d0 // indirect
-	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b
+	golang.org/x/crypto v0.1.0 // indirect
+	golang.org/x/term v0.1.0
 )
 
 replace github.com/theupdateframework/go-tuf => github.com/asraa/go-tuf v0.0.0-20211118155909-342063f69dee
